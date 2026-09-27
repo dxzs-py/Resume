@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# 测试与工具缓存
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+
+# 运行时产物（Exercise_1）
+.env
+logs/
+sessions/
+
+# IDE
+.idea/
+.vscode/
